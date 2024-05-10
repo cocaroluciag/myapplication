@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="llamar">"Call "</string>
+    <string name="volver">Back</string>
+    <string name="enviar_correo">Send Email</string>
+    <string name="salir_al_login">Go to login</string>
+    <string name="datos_de_contacto">Contact information:</string>
+    <string name="c_caro_lucia_guadalupe">Cócaro Lucia Guadalupe</string>
+    <string name="datos_del_programador">Programmer\'s Data:</string>
+    <string name="cocaroluciaguadalupe_gmail_com">cocaroluciaguadalupe@gmail.com</string>
+    <string name="img4">img4</string>
+    <string name="_54_9_2954_497786">+54 9 2954-497786</string>
+    <string name="n_mero_telef_nico">Phone Number:</string>
+    <string name="correo_electr_nico">E-mail:</string>
+    <string name="netflix">NETFLIX</string>
+    <string name="acerca">About</string>
+    <string name="salir_al_login_pantalla2">Go to login</string>
+    <string name="netflix_es_un_servicio_de_streaming_por_suscripci_n_que_les_permite_a_sus_miembros_ver_series_y_pel_culas_en_un_dispositivo_con_conexi_n_a_internet_en_funci_n_del_plan_que_tengas_tambi_n_puedes_descargar_series_y_pel_culas_en_un_dispositivo_con_ios_android_o_windows_10_y_verlas_sin_conexi_n_a_internet">Netflix is a subscription streaming service that allows its members to watch series and movies on a device with an internet connection. Depending on the plan you have, you can also download series and movies to an iOS, Android, or Windows 10 device and watch them offline.</string>
+    <string name="ingrese_su_clave">Enter your password:</string>
+    <string name="netflix_logo_1">NETFLIX</string>
+    <string name="ingrese_su_usuario">Enter your username:</string>
+    <string name="ingresar">Login</string>
+</resources>

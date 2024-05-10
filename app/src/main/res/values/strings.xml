@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="llamar">Llamar</string>
+    <string name="volver">Volver</string>
+    <string name="enviar_correo">Enviar correo</string>
+    <string name="salir_al_login">Salir al login</string>
+    <string name="datos_de_contacto">Datos de Contacto:</string>
+    <string name="c_caro_lucia_guadalupe">Cócaro Lucia Guadalupe</string>
+    <string name="datos_del_programador">"Datos del programador: "</string>
+    <string name="cocaroluciaguadalupe_gmail_com">cocaroluciaguadalupe@gmail.com</string>
+    <string name="img4">img4</string>
+    <string name="_54_9_2954_497786">+54 9 2954-497786</string>
+    <string name="n_mero_telef_nico">Número telefónico:</string>
+    <string name="correo_electr_nico">Correo electrónico:</string>
+    <string name="netflix">NETFLIX</string>
+    <string name="acerca">A cerca</string>
+    <string name="salir_al_login_pantalla2">Salir al login</string>
+    <string name="netflix_es_un_servicio_de_streaming_por_suscripci_n_que_les_permite_a_sus_miembros_ver_series_y_pel_culas_en_un_dispositivo_con_conexi_n_a_internet_en_funci_n_del_plan_que_tengas_tambi_n_puedes_descargar_series_y_pel_culas_en_un_dispositivo_con_ios_android_o_windows_10_y_verlas_sin_conexi_n_a_internet">Netflix es un servicio de streaming por suscripción que les permite a sus miembros ver series y películas en un dispositivo con conexión a internet. En función del plan que tengas, también puedes descargar series y películas en un dispositivo con iOS, Android, o Windows 10 y verlas sin conexión a internet.</string>
+    <string name="ingrese_su_clave">Ingrese su clave:</string>
+    <string name="netflix_logo_1">NETFLIX</string>
+    <string name="ingrese_su_usuario">Ingrese su usuario:</string>
+    <string name="ingresar">Ingresar</string>
+</resources>
